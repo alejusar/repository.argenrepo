@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
 <addon id="repository.argenrepo" name="ArgenRepo's KODI Addons" version="1.0" provider-name="alejusar">
 	<extension point="xbmc.addon.repository" name="ArgenRepo's KODI Addon Repository">
     		<info compressed="false">http://raw.github.com/alejusar/repository.argenrepo/master/starthere/addons.xml</info>
@@ -11,3 +12,4 @@
 		<platform>all</platform>
 	</extension>
 </addon>
+</addons>
